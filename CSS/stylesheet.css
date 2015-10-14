@@ -1,0 +1,29 @@
+/*comment*/ 
+body { 
+    margin: 0px;
+    font-family:monospace
+}
+
+h1, h2,h3,h4,h5,h6, p {
+    margin: 0px;
+}
+
+nav {
+    text-align: center;
+    background-color: black
+    
+}
+
+nav h1 {
+    color: cornsilk
+   
+}
+
+/*id's are referrenced by #*/ #page-title {
+    padding: 50px;
+}
+
+.half-width {
+    width: 49%;
+        display: inline-block;
+}
